@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/egor-ryzhko/CypressProject#readme",
   "devDependencies": {
-    "cypress": "^12.5.1"
+    "cypress": "^12.5.1",
+    "pdf-parse": "^1.1.1"
   }
 }
