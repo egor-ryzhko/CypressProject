@@ -1,0 +1,16 @@
+module.exports = {
+    loginFormButton: 'a[href*=login-form]',
+    emailInput: 'div[id*=edit-login] input[name=email]',
+    passwordInput: 'div[id*=edit-login] input[name=pass]',
+    continueButton: 'div[id*=edit-login] button[name=op]',
+    loggedInUserHeader: '#block-mbusermenu h3',
+    acceptCookiesButton: 'button[data-tid=banner-accept]',
+    searchInput: 'input[name=search]',
+    searchButton: '#book-search-form button[name=op]',
+    searchResultsHeader: 'section[class*=block-mnybks-main-title-block] div.block-content',
+    searchBooksList: '.item-list li',
+    searchBookTitleItem: 'div.content > div[class*=field--name-field-title] > a',
+    searchBookHeader: 'div[itemprop=name]',
+    downloadBookButton: 'a[href*=book-files]',
+    selectFormatButton: 'a[href*="books/get"]',
+}
